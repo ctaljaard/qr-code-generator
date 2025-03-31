@@ -1,19 +1,18 @@
 
 **README.md**
-```md
 # QR Code Generator
 
 A simple Python script to generate QR codes with customizable colors and border sizes.
 
 ## Features
-- Generate QR codes from text or URLs
-- Customize fill and background colors
-- Adjust border size
-- Save QR codes as `.png`, `.jpg`, or `.jpeg`
+- Generate QR codes from text or URLs  
+- Customize fill and background colors  
+- Adjust border size  
+- Save QR codes as `.png`, `.jpg`, or `.jpeg`  
 
 ## Requirements
-- Python 3.x
-- `qrcode[pil]`
+- Python 3.x  
+- `qrcode[pil]`  
 
 ## Installation
 ```sh
